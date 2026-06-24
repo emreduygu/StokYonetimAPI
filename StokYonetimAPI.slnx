@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="StokYonetimAPI.Application/StokYonetimAPI.Application.csproj" Id="bb65bff9-7d37-46ac-9374-36a6f3dbca06" />
+  <Project Path="StokYonetimAPI.Domain/StokYonetimAPI.Domain.csproj" Id="b92e7b26-875d-4e29-a188-c302286f0e8f" />
+  <Project Path="StokYonetimAPI.Infrastructure/StokYonetimAPI.Infrastructure.csproj" Id="c1c686cc-cbd5-4f69-9c72-51ba74e4048e" />
+  <Project Path="StokYonetimAPI.Tests/StokYonetimAPI.Tests.csproj" Id="7c405295-1fca-4f87-9fa7-42459a0083b0" />
+</Solution>
